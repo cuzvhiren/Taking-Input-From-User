@@ -1,0 +1,27 @@
+#include<iostream>
+using namespace std;
+
+
+int main(){
+
+
+//defining or assuming variables as undergiven:-
+
+int number, numbers;
+
+
+cout<<"Enter The Value Of : ";
+
+cin>>number;
+
+cout<<"Enter The Value Of : ";
+
+cin>>numbers;
+
+cout<<"Sum Of These Numbers :"<<number + numbers;
+
+}
+
+
+
+//that's how we can take user input
